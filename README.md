@@ -22,19 +22,11 @@
 uh`
 
 ```
-Block code so like how to get more than one line huh
+#Block code so like how to get more than one line huh
 doesnt work oh like this.
 
-r
-r
-r
-rr
-r
-r
-r
-r
-r
-r
+for i in range(9):
+    print('hello world')
 ```
 
 
